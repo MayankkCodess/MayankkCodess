@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mayank Kaushik [Full Stack Developer]</h1>
-<h3 align="center">Software Developer, constantly identifying problems in society and transforming them into products that reduces human efforts.</h3>
+<h3 align="center">Software Developer, always involve in finding problems in society and transforming those problems into products which results in reducing human efforts.</h3>
 <br># Experienced in building Full-Stack & GenAI Projects<br># Currently Exploring AI-Agents, Microservices, Problems to Automate<br># Strong In MERN Stack, DevOps, System Design, RAG, MCP,etc<br># Fav. Geeta Sloka -> There is nothing holier and purer than knowledge in this world.
 
 
